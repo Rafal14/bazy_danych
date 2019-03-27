@@ -1,0 +1,9 @@
+emp_id;emp_name;emp_surname;pesel;phone_name;email;hiredate;street;no_build;zipcode;city;job_id
+1;Jadwiga;Bilecka;60042103857;123456789;Jak1@1.com;10-02-05;Biała;1;56-210;Wrocław;5
+2;Ewa;Janowski;71111803858;123456790;jak2@1.com;10-02-05;Kwiatowa;2;56-022;Wrocław;4
+3;Adam;Adamczyk;70052103959;123456791;jak3@1.com;10-02-05;Kwiatowa;3;56-022;Wrocław;3
+4;Jan;Długi;70010503960;123456792;jak4@1.com;10-02-05;Czarna;4;56-023;Wrocław;2
+5;Ewa;Brobek;72022103861;123456793;jak5@1.com;10-02-05;Kwiatowa;5;56-022;Wrocław;1
+6;Józef;Rak;86012103962;123456794;jak6@1.com;10-02-10;Czerwona;6;55-021;Wrocław;1
+7;Marek;Krab;70092103963;123456795;jak7@1.com;10-02-11;Kwiatowa;7;56-029;Wrocław;6
+8;Jan;Nowak;71052103964;123456796;Jak8@1.com;10-02-12;Rdzawa;5;51-002;Psary;7
